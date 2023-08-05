@@ -1,2 +1,2 @@
 # data-science
-this project is black friday sales prediction
+This project is a black Friday sales prediction
